@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: coding
- * @Date: 2023-05-31 09:46:04
- * @LastEditors: 
- * @LastEditTime: 2023-05-31 09:46:09
--->
 <template>
     <h2> 这里是登录页面 </h2>
     <br />

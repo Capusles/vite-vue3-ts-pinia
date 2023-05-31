@@ -1,11 +1,3 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: coding
- * @Date: 2023-05-31 09:40:31
- * @LastEditors: 
- * @LastEditTime: 2023-05-31 09:40:42
- */
 module.exports = {
     extends: ['@commitlint/config-conventional', 'cz'],
     rules: {

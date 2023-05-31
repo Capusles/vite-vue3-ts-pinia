@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: coding
- * @Date: 2023-05-30 17:40:28
- * @LastEditors: 
- * @LastEditTime: 2023-05-31 09:54:25
--->
 <template>
     <h2> 这里是request请求页面 </h2>
     <br />

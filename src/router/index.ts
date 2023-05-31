@@ -1,11 +1,3 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: coding
- * @Date: 2023-05-30 17:29:33
- * @LastEditors: 
- * @LastEditTime: 2023-05-30 17:29:49
- */
 import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router';
 
 const routes: Array<RouteRecordRaw> = [
