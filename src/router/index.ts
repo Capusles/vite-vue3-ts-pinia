@@ -9,6 +9,7 @@ const routes: Array<RouteRecordRaw> = [
             keepAlive: true,
             requireAuth: false
         },
+        // @ts-ignore
         component: () => import('@/pages/login.vue')
     },
     {
@@ -19,7 +20,19 @@ const routes: Array<RouteRecordRaw> = [
             keepAlive: true,
             requireAuth: true
         },
+        // @ts-ignore
         component: () => import('@/pages/index.vue')
+    },
+    {
+        path: '/webgl/pointsWaves',
+        name: 'threeJs',
+        meta: {
+            title: 'threeJs',
+            keepAlive: true,
+            requireAuth: true
+        },
+        // @ts-ignore
+        component: () => import('@/pages/webgl/pointsWaves.vue')
     }
 ]
 
